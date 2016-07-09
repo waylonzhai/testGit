@@ -2,4 +2,3 @@ It's a readme note.
 Add new line.
 New line again.
 Add new branch dev.
-Master branch add line.
